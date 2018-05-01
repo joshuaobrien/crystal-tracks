@@ -1,0 +1,5 @@
+name: crystal-tracks
+version: 0.01
+dependencies:
+  kemal:
+    github: kemalcr/kemal
